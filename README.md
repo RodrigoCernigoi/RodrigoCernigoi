@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Rodrigo da Costa Cernigoi
 
-🎓 Bacharelando em Ciência da Computação — **UNIFESO**
+🎓 Bacharelando em Ciência da Computação — **UNIFESO - Centro Universitário Serra dos Órgãos**
 
 💻 Desenvolvedor de Software | 🎮 Game Development | ⚙️ Back-end
 
